@@ -1,0 +1,13 @@
+2.0 - Made 'safe' version using the Perl Safe module.
+
+1.4 - Added 'reprocess' and 'preprocess' attributes to PerlScript tag.
+
+1.3 - Added interface code for the Macros plugin.
+
+1.2 - MT tags produced by PerlScript will now be processed as advertised.
+
+1.1 - Update to allow packages to only be evaluated once. This is useful
+when you have PerlScript blocks that are processed in category, date or
+individual archive pages.
+
+1.0 - Initial release
